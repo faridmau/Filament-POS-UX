@@ -1,5 +1,6 @@
 
 
+![POS System Screenshot](pos-ux-screenshot.png)
 # POS System with FilamentPHP, TailwindCSS, AlpineJS, and Livewire
 
 This repository contains Point of Sale (POS) ux system built using the following technologies:
